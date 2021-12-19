@@ -35,5 +35,17 @@ all-countries  Shows all countries
   
   countries      Enter the name of countries you want
   
+  ### Using tracker for a single country :
   
+  ```bash
+  tracker countries italy
+  ```
+  ### For multiple countries put \, and do not use space\!
   
+  ```bash
+  tracker countries italy,germany,uk
+  ```
+  ---
+  
+  ### I will be happy if anyone wants to improve the functionality of this app so feel free to do it.
+  ### Its free and open source.
